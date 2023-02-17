@@ -11,6 +11,7 @@ Hardware
 
 ## Link to your repository README.md
 https://github.com/Suraj6542/code-of-ph-sensor/edit/main/README.md
+https://github.com/Suraj6542/code-of-soil-moisture-sensor-in-arduin-o-uno
 
 
 ## About Project
